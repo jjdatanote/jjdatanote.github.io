@@ -1,6 +1,6 @@
 ---
 layout : single
-title : "파이썬 조건문(if)
+title : "파이썬 조건문(if)"
 ---
 
 ```python

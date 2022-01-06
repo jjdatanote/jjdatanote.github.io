@@ -1,3 +1,8 @@
+---
+layout : single
+title : "파이썬 조건문(if)
+---
+
 ```python
 # 코드 4-1
 print("Tell me your age")

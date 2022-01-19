@@ -1,3 +1,8 @@
+---
+layout : single
+title : "엑셀 참조(reference)"
+---
+
 # 엑셀 상대 참조, 절대 참조, 혼합 참조 
 
 ## 0. 참조
@@ -8,7 +13,7 @@
 
 ## 1. 상대 참조
 
-입력한 식을 복사-붙여 넣기를 했을 때 **참조된 셀들도 따라서 이동하는 상태**
+입력한 식을 복사-붙여 넣기를 했을 때 **참조된 셀들도 따라서 이동하는 상태이다.**
 
 <img src="https://blog.kakaocdn.net/dn/bsLJ3I/btqD1O1FmCp/ovWHMh1KK5K5fupFbRni70/img.png" alt="img" style="zoom:33%;" />
 

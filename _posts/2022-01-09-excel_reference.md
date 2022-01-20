@@ -33,7 +33,7 @@ title : "엑셀 참조(reference)"
 
 ## 3. 혼합 참조_행 고정시키기
 
-**F4를 2번 누르면** **숫자 앞에만 $표시**가 생긴다. 행을 고정시킨다는 의미이다.
+**F4를 2번 누르면 숫자 앞에만 $표시**가 생긴다. 행을 고정시킨다는 의미이다.
 
 <img src="https://blog.kakaocdn.net/dn/ei46rJ/btqD1q02zMh/NfTZrLjCmrqlKTkS2KldEK/img.gif" alt="img" style="zoom:33%;" />
 

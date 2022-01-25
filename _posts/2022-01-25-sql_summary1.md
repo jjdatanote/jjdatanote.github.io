@@ -139,11 +139,11 @@ title : "sql 정리 1"
 
 **2.ALTER TABLE**
 
-**SQL>>**  ALTER TABLE 테이블이름 ADD 속성_이름 데이터타입 [DEFAULT]; //추가 
+**SQL>>**  ALTER TABLE 테이블이름 ADD 속성_이름 데이터타입  -->추가 
 
-ALTER TABLE 테이블이름 ALTER 속성_이름 [SET DEFAULT];                     //속성명변경  
+ALTER TABLE 테이블이름 ALTER 속성_이름  -->속성명변경  
 
-ALTER TABLE 테이블이름 DROP 속성_이름 [CASCADE | RESTRICT];              //속성 삭제
+ALTER TABLE 테이블이름 DROP 속성_이름   -->속성 삭제
 
 **3.RENAME TABLE**
 

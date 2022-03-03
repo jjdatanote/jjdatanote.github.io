@@ -26,7 +26,8 @@ title : "구글 데이터 스튜디오 활용(차트) "
 - 만약 시간 데이터가 있다면 날짜필드와 결합 필요 (yyyymmdd[hh:mm:ss]
 
 <샘플구조>
-![image](./https://user-images.githubusercontent.com/96855743/156570008-1baa0384-8675-46c3-8f2e-181ca6bc1c2d.png)
+![image](https://user-images.githubusercontent.com/96855743/156574050-c03a32e8-f8a8-49ba-aa43-64716034e175.png)
+
 
 
 

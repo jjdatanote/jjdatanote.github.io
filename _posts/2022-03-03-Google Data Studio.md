@@ -1,6 +1,6 @@
 ---
 layout : single
-title : "구글 데이터 스튜디오 활용(차트) "
+title : "구글 데이터 스튜디오 활용(차트)"
 ---
 
 
@@ -26,6 +26,7 @@ title : "구글 데이터 스튜디오 활용(차트) "
 - 만약 시간 데이터가 있다면 날짜필드와 결합 필요 (yyyymmdd[hh:mm:ss]
 
 <샘플구조>
+
 ![image](https://user-images.githubusercontent.com/96855743/156574050-c03a32e8-f8a8-49ba-aa43-64716034e175.png)
 
 
@@ -56,10 +57,13 @@ title : "구글 데이터 스튜디오 활용(차트) "
 
 구글스프레드시트를 선택하면 데이터스튜디오에서 구글 스프레드 시트 연결 권한을 요청한다. 구글 데이터 스튜디오에서 구글 스프레드시트에 접근할 수 있도록 승인을 해주면 된다.
 
+1
 ![img](https://t1.daumcdn.net/cfile/tistory/99BA333D5C84B9371F)
 
+2
 ![img](https://t1.daumcdn.net/cfile/tistory/99C36D385C84B9C517)
 
+3
 ![img](https://t1.daumcdn.net/cfile/tistory/9984B93D5C84B93817)
 
 **데이터 연결하기 실습**

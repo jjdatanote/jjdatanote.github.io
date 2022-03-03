@@ -32,7 +32,7 @@ title : "구글 데이터 스튜디오 활용(차트) "
 
 \- (주의) 합계, 평균등은 데이터스튜디오에서 데이터로 오인할 수 있으므로 포함시키지 않는것이 좋다.
 
-![image](https://user-images.githubusercontent.com/96855743/156568844-b6912d23-44ea-47c5-88d7-d9376a913e44.png)
+![image](https://user-images.githubusercontent.com/96855743/156570164-bc34be24-8305-46f4-8723-70b8ad7a76e2.png)
 
 
 

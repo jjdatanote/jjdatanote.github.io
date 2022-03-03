@@ -26,8 +26,9 @@ title : "구글 데이터 스튜디오 활용(차트) "
 \- 만약 시간 데이터가 있다면 날짜필드와 결합 필요 (yyyymmdd[hh:mm:ss]
 
 <샘플구조>
+![image](https://user-images.githubusercontent.com/96855743/156570008-1baa0384-8675-46c3-8f2e-181ca6bc1c2d.png)
 
-![img](https://t1.daumcdn.net/cfile/tistory/9943F8445C84B66630)
+
 
 \- (주의) 합계, 평균등은 데이터스튜디오에서 데이터로 오인할 수 있으므로 포함시키지 않는것이 좋다.
 
